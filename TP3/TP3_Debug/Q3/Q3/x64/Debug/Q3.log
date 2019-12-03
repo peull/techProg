@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\1030090\desktop\techniqueprog\tp3\tp3_debug\q3\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Q3.vcxproj -> C:\Users\1030090\Desktop\techniqueProg\TP3\TP3_Debug\Q3\x64\Debug\Q3.exe
